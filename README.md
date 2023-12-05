@@ -18,7 +18,9 @@ Conceitos aplicados:
 
 4 - Métodos abstratos;
 
-5 - Superclasse.
+5 - Superclasse;
+
+6 - Polimorfismo.
 
 
 
